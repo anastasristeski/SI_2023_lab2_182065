@@ -2,4 +2,4 @@
 Control Flow Graph
 
 
-![CFG](https://github.com/anastasristeski/SI_2023_lab2_182065/assets/77769395/5ffd9638-8fb8-4142-a493-796369e82992)
+![CFG1](https://github.com/anastasristeski/SI_2023_lab2_182065/assets/77769395/e116bd0a-7198-4cdb-8560-d5e0867c1e6d)
